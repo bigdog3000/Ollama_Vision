@@ -68,7 +68,7 @@ All model responses are expected to match this shape, making them easy to post�
 
 ## 🖥️ Screenshots
 
-*Add your own screenshots to **`docs/`** and update the paths above.*
+
 ![image](https://github.com/user-attachments/assets/271af9bb-bafe-43fc-9d63-b7e599b54625)
 
 
